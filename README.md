@@ -29,3 +29,6 @@ It will also be a way that you can start a conversation with me if you'd like.
 I'd love to know if you find the course useful.
 
 My GitHub user account: DocJon
+
+This is a second change by DocJon.
+
