@@ -24,4 +24,8 @@ If you'd like to experiment a bit with public pull requests, try this out:
 My GitHub user account: chad-thompson
 3)  Submit a pull request to have your name / account added to the 'master' project.
 
-It will also be a way that you can start a conversation with me if you'd like.  I'd love to know if you find the course useful.
+It will also be a way that you can start a conversation with me if you'd like.
+
+I'd love to know if you find the course useful.
+
+My GitHub user account: DocJon
